@@ -1,6 +1,6 @@
 # AppTareas
 
-aplicacion tipo CRUD que pérmite agregar, eliminar y cambiar el estado de tareas que el usuario va agregando
+aplicacion tipo CRUD que pérmite agregar, eliminar y cambiar el estado de tareas que el usuario va agregando.
 estas tareas se guardan en localStorage.
 
 Bootstrap 5
